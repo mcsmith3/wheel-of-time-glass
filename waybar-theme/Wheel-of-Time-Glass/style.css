@@ -1,0 +1,46 @@
+@import "../../omarchy/current/theme/waybar.css";
+
+* {
+  border: none;
+  min-height: 0;
+  font-family: "JetBrains Mono Nerd Font";
+  font-size: 12px;
+  font-weight: 600;
+}
+
+window#waybar { background: transparent; }
+
+#waybar > box {
+  margin: 5px 9px 0;
+  padding: 2px 7px;
+  border: 1px solid alpha(@foreground, 0.16);
+  border-radius: 16px;
+  background: alpha(@background, 0.34);
+  box-shadow: 0 5px 18px alpha(black, 0.24);
+}
+
+#workspaces button,
+#clock,
+#network,
+#pulseaudio,
+#battery,
+#tray,
+#window {
+  margin: 1px 3px;
+  padding: 1px 7px;
+  border-radius: 11px;
+  color: @foreground;
+  background: alpha(@background, 0.22);
+}
+
+#workspaces button { opacity: 0.42; }
+#workspaces button.active { color: @accent; opacity: 1; }
+#workspaces button:hover { color: @foreground; background: alpha(@accent, 0.16); }
+
+tooltip {
+  padding: 6px;
+  border: 1px solid alpha(@accent, 0.35);
+  border-radius: 10px;
+  background: alpha(@background, 0.76);
+}
+

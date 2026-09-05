@@ -1,0 +1,18 @@
+/**
+ * @name Wheel of Time Glass
+ * @description Smoky plum glass with a muted Wheel-of-Time-inspired pastel palette.
+ * @version 1.0.0
+ */
+:root {
+  --background-primary: #28232fcc;
+  --background-secondary: #211c28cc;
+  --background-secondary-alt: #19151fcc;
+  --background-tertiary: #19151fcc;
+  --background-floating: #28232fe6;
+  --text-normal: #e9e1dc;
+  --text-muted: #9e96a8;
+  --interactive-active: #fff4ee;
+  --interactive-normal: #cbc2ce;
+  --brand-500: #9bc4bc;
+}
+

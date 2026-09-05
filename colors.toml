@@ -1,0 +1,33 @@
+mode = "dark"
+
+# Dusk pastels over smoky plum glass.
+accent = "#9BC4BC"
+selection = "#4B435A"
+muted = "#817A89"
+
+background = "#28232F"
+dark_background = "#211C28"
+darker_background = "#19151F"
+lighter_background = "#373040"
+
+foreground = "#E9E1DC"
+dark_foreground = "#9E96A8"
+light_foreground = "#CBC2CE"
+bright_foreground = "#FFF4EE"
+
+red = "#D58A91"
+yellow = "#D8BF83"
+orange = "#D39A78"
+green = "#A8C69F"
+cyan = "#9BC4BC"
+blue = "#9FAFD1"
+magenta = "#C2A0C7"
+brown = "#AD8F7A"
+
+bright_red = "#E6A0A6"
+bright_yellow = "#E8D29B"
+bright_green = "#BED8B6"
+bright_cyan = "#B4D8D1"
+bright_blue = "#B7C5E2"
+bright_magenta = "#D7B7DB"
+

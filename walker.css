@@ -1,0 +1,41 @@
+@define-color selected-text #FFF4EE;
+@define-color text #E9E1DC;
+@define-color base #28232F;
+@define-color border #9BC4BC;
+
+window * {
+  all: unset;
+  color: @text;
+  background: none;
+  border: none;
+  font-size: 16px;
+}
+
+window .box-wrapper {
+  background: alpha(@base, 0.68);
+  border: 1px solid alpha(@border, 0.72);
+  border-radius: 14px;
+  padding: 8px;
+  box-shadow: 0 8px 28px alpha(black, 0.38);
+  backdrop-filter: blur(18px);
+}
+
+window .search-container {
+  border: 1px solid alpha(@border, 0.32);
+  border-radius: 10px;
+  padding: 6px 9px;
+  background: alpha(@base, 0.42);
+  backdrop-filter: blur(18px);
+}
+
+window .input { background: transparent; color: @text; }
+
+window .preview {
+  border-radius: 10px;
+  background: alpha(@base, 0.38);
+  color: @selected-text;
+  padding: 10px;
+  margin: 10px 0;
+  backdrop-filter: blur(20px);
+}
+
