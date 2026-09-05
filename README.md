@@ -40,7 +40,7 @@ omarchy theme bg next
 - Gruvy-Glass-style compact Waybar layout and styling for legacy setups
 - btop, Neovim, VS Code, and Vencord color extras
 - Papirus Dark icon preference
-- Six original 1672×941 wallpapers
+- Seventeen original 1672×941 wallpapers
 
 ## Transparency
 
@@ -76,8 +76,16 @@ hand-written local theme if you want the exact opacity values above.
 | ![Two Rivers](backgrounds/01-two-rivers.png) | ![Tar Valon](backgrounds/02-tar-valon.png) |
 | ![Aiel Waste](backgrounds/03-aiel-waste.png) | ![Dream World](backgrounds/04-dream-world.png) |
 | ![Ogier Stedding](backgrounds/05-ogier-stedding.png) | ![Tarmon Gai'don](backgrounds/06-tarmon-gaidon.png) |
+| ![Westlands map](backgrounds/07-westlands-map.png) | ![Moiraine at the Two Rivers](backgrounds/08-moiraine-two-rivers.png) |
+| ![Rand challenges saidin](backgrounds/09-rand-saidin.png) | ![Nynaeve in the Ways](backgrounds/10-nynaeve-the-ways.png) |
+| ![Mat transformed](backgrounds/11-mat-transformed.png) | ![Perrin Wolfbrother](backgrounds/12-perrin-wolfbrother.png) |
+| ![Egwene as Amyrlin](backgrounds/13-egwene-amyrlin.png) | ![Ajahs, saidin, and saidar](backgrounds/14-ajahs-saidin-saidar.png) |
+| ![The Dragon Reborn over Falme](backgrounds/15-dragon-reborn-falme.png) | ![Car'a'carn at Rhuidean](backgrounds/16-caracarn-rhuidean.png) |
+| ![Callandor in the Stone of Tear](backgrounds/17-callandor-stone-of-tear.png) | |
 
-The backgrounds are original AI-generated fan art. Robert Jordan's novels,
+The backgrounds are original AI-generated fan art. The decorative Westlands
+map is unlabeled and illustrative rather than geographically authoritative.
+Robert Jordan's novels,
 official Tor cover art, wider fan-art traditions, and the television series'
 cinematic production design informed the broad locations and mood; no official
 artwork, television stills, actor likenesses, or other source images are
